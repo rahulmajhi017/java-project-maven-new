@@ -202,7 +202,7 @@
         </div>
     </div>
 
-    <!-- ------------------ Papular Shows ------------------ -->
+    <!-- ------------------ Popular Shows ------------------ -->
     <h1 class="title">Popular Shows</h1>
     <div class="movies-list">
         <button class="pre-btn"><img src="./assets/img/pre.png" alt=""></button>
