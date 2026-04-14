@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
 
     <!-- ------------------ Title ------------------ -->
-    <title>Disney+ jio Hotstar - Watch TV Shows Online</title>
+    <title>Disney+ jio Hotstar+ netflix - Watch TV Shows Online</title>
 
     <!-- ------------------ Style Sheet ------------------ -->
     <link rel="stylesheet" href="./assets/css/style.css">
